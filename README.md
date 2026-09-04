@@ -1,5 +1,8 @@
 # Praktikum1-RSI
-.
+## Kelompok 7
+
+1. Fadira Azanti Hamzah - L0225002
+2. Dian Rahma Rosyada - L0225002
 ## Deskripsi Project
 Untuk project RSI kami, kami akan membangun sistem informasi berbasis web untuk membantu 
 mitra kami, CV. Barokah Globalindo, yang bergerak di bidang penyedia sarana pendidikan 
