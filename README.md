@@ -1,0 +1,5 @@
+# Praktikum1-RSI
+.
+
+
+
